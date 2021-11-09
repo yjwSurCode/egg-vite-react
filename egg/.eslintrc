@@ -1,0 +1,7 @@
+{
+  "extends": "eslint-config-egg/typescript",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "quotes": [1, "single"] //可以使用双引号
+}
